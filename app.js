@@ -33,7 +33,7 @@ var j = "1"
 
 
 
-/*
+
 function abs(x){
     if (x >=0 ){
         return x
@@ -43,6 +43,6 @@ function abs(x){
     }
     
 }
-var result = abs(4)
-console.log(result)
-*/
+var numero = -4
+var result = abs(numero)
+console.log(`O valor absoluto de ${numero} é: ${result}`)
