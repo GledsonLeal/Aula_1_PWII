@@ -18,8 +18,8 @@ console.log('Meu nome completo é: ' + nome+ ' ' + sobreNome)// concatenando str
         
 console.log(`Meu nome completo é: ${nome} ${sobreNome}` )//evolução da linguagem. Tem que usar as aspas viradas ` `
 
-
-
+//******************************************************************** */
+// Trabalhando com comparações de variáveis
 
 var i = 1
 var j = "1"
@@ -32,7 +32,8 @@ var j = "1"
 //if (x === y) console.log(`o valor e x e y é extritamente igual`)
 
 
-
+//************************************** */
+// Trabalhando com funções
 
 function abs(x){
     if (x >=0 ){
